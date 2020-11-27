@@ -1,0 +1,13 @@
+.films {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+.films > thead {
+  font-weight: 700; 
+}
+
+.films td {
+  padding: 10px;
+  border: 1px solid;
+}
